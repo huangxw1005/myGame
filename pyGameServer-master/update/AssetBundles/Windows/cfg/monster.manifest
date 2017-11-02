@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 720272401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11b37d977db1e18a1ed2b2c9aeea0d39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Cfg/monster.json
+Dependencies: []

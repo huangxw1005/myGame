@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3775278445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d22368dba117a3ec95d8b419d81e11f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59115a64cf1835f9b870e5b819903277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sprite/Menu/icon_army.prefab
+- Assets/Resources/Sprite/Menu/icon_skill.prefab
+- Assets/Resources/Sprite/Menu/s_icon_gift.prefab
+- Assets/Resources/Sprite/Menu/icon_arena.prefab
+- Assets/Resources/Sprite/Menu/icon_mail.prefab
+- Assets/Resources/Sprite/Menu/bg_userinfo.prefab
+- Assets/Resources/Sprite/Menu/icon_shop.prefab
+Dependencies:
+- Update/AssetBundles/Windows/arts/menu

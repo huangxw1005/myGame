@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 369975864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 028b0efb70dd7110d38829740102a0a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29611c1c41d12cc150d42a4efce42d3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Props_B19_2.prefab
+Dependencies: []

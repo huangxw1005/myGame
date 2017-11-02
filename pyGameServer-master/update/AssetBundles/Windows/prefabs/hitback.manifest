@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2974093825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ce4c0996a12487cb2c9aadf609c0c97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78b0ded5650f563f6fd991055d04984b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e6803c4fa73aae4a82add8dfa3d6c73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/HitBack.prefab
+Dependencies:
+- Update/AssetBundles/Windows/animation/hitback

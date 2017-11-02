@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4192645879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cedae2fc1c6031d09bd2d58ea03e448e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c3a143b7a7a590bcf6a1ab65bb3426c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/Widget/CritNum.prefab
+Dependencies:
+- Update/AssetBundles/Windows/font/critnum

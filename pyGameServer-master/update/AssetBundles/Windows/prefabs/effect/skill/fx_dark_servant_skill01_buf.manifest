@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 282033956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 301571d2c1d61eb2d67329d0b4a3753f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a308b2b4eb2c44f79ebffc86952e24a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effect/Skill/Fx_dark_servant_skill01_buf.prefab
+Dependencies: []

@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{34C76EC3-0484-7851-AFFD-1D4AB76F41BA}") = "PixelWorld-master", "Assembly-CSharp-firstpass.csproj", "{3606D115-3066-A25D-AAA9-387BC2256122}"
+EndProject
+Project("{34C76EC3-0484-7851-AFFD-1D4AB76F41BA}") = "PixelWorld-master", "Assembly-CSharp.csproj", "{BCFB2310-2D40-3FAC-81CF-C69B374964EF}"
+EndProject
+Project("{34C76EC3-0484-7851-AFFD-1D4AB76F41BA}") = "PixelWorld-master", "Assembly-CSharp-Editor-firstpass.csproj", "{CBF0DF29-D857-650A-B380-F53C1EAB9EF9}"
+EndProject
+Project("{34C76EC3-0484-7851-AFFD-1D4AB76F41BA}") = "PixelWorld-master", "Assembly-CSharp-Editor.csproj", "{D24A51BF-ECFF-D586-0621-50EEF2FE165E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3606D115-3066-A25D-AAA9-387BC2256122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3606D115-3066-A25D-AAA9-387BC2256122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3606D115-3066-A25D-AAA9-387BC2256122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3606D115-3066-A25D-AAA9-387BC2256122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFB2310-2D40-3FAC-81CF-C69B374964EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFB2310-2D40-3FAC-81CF-C69B374964EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFB2310-2D40-3FAC-81CF-C69B374964EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFB2310-2D40-3FAC-81CF-C69B374964EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF0DF29-D857-650A-B380-F53C1EAB9EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF0DF29-D857-650A-B380-F53C1EAB9EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF0DF29-D857-650A-B380-F53C1EAB9EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF0DF29-D857-650A-B380-F53C1EAB9EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24A51BF-ECFF-D586-0621-50EEF2FE165E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A51BF-ECFF-D586-0621-50EEF2FE165E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A51BF-ECFF-D586-0621-50EEF2FE165E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A51BF-ECFF-D586-0621-50EEF2FE165E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

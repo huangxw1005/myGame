@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1104902174
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 006c89c119360dbe49575bbe7b77ea4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 207a7b0e1c44f98880c56e53d2e772f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d7b55c7ecdb49a4a89fa5e6f9022861, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b23f08d2ae4cba14087c1ed36193d82b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b83a809b52234e34da13eb77ec44ffa0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Enemy/1001.prefab
+Dependencies:
+- Update/AssetBundles/Windows/materials/shadowmaterial
+- Update/AssetBundles/Windows/ai/monsterclose

@@ -1,0 +1,37 @@
+# 
+#	language for zh-ch
+#
+
+# system
+SYSTEM_ERROR						= 系统出错！
+
+# network
+NETWORK								= 网络连接
+NETWORK_FAIL						= 网络连接失败！
+NETWORK_ERROR						= 网络连接异常！
+NETWORK_TIMEOUT						= 请求超时！
+
+#login
+LOGIN_SERVER_OFF					= 服务器维护中！
+LOGIN_PWD_NOT_MATCH					= 两次输入密码不一致！
+
+# ui
+TITLE_TIP							= 提示
+TITLE_ERR							= 错误
+INPUT_NONE							= 输入不能为空！
+
+# item
+ITEM_COMPOSE_SUCCESS				= 合成成功！
+
+# battle
+BATTLE_EXIT							= 确认退出战斗？
+BATTLE_SKILL_COLDDOWN				= 技能冷却中
+BATTLE_MP_NOT_ENOUGH				= 魔法值不足！
+
+# shop
+SHOP_BUY_SUCCESS					= 购买成功！
+SHOP_BUY_FAIL						= 购买失败！
+
+# mail
+MAIL_GET_SUCCESS					= 邮件提取成功！
+MAIL_DEL_SUCCESS					= 邮件已删除！

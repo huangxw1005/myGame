@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3191934286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93b9f1d9eb6f47a49125441286265bfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59115a64cf1835f9b870e5b819903277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sprite/Battle/frame-face.prefab
+- Assets/Resources/Sprite/Battle/bar_hp.prefab
+- Assets/Resources/Sprite/Battle/bar_exp.prefab
+- Assets/Resources/Sprite/Battle/bar_bg.prefab
+- Assets/Resources/Sprite/Battle/btn_pause.prefab
+Dependencies:
+- Update/AssetBundles/Windows/arts/battle

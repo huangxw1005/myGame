@@ -1,0 +1,1373 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icon/115015
+      Dependencies: {}
+    Info_1:
+      Name: arts/menu
+      Dependencies: {}
+    Info_2:
+      Name: icon/115011
+      Dependencies: {}
+    Info_3:
+      Name: icon/skill/101
+      Dependencies: {}
+    Info_4:
+      Name: icon/skill/111
+      Dependencies: {}
+    Info_5:
+      Name: arts/public
+      Dependencies: {}
+    Info_6:
+      Name: arts/battle
+      Dependencies: {}
+    Info_7:
+      Name: icon/skill/103
+      Dependencies: {}
+    Info_8:
+      Name: icon/skill/120
+      Dependencies: {}
+    Info_9:
+      Name: icon/skill/121
+      Dependencies: {}
+    Info_10:
+      Name: icon/1002
+      Dependencies: {}
+    Info_11:
+      Name: icon/42024
+      Dependencies: {}
+    Info_12:
+      Name: icon/42022
+      Dependencies: {}
+    Info_13:
+      Name: icon/42025
+      Dependencies: {}
+    Info_14:
+      Name: icon/42023
+      Dependencies: {}
+    Info_15:
+      Name: icon/114011
+      Dependencies: {}
+    Info_16:
+      Name: icon/42021
+      Dependencies: {}
+    Info_17:
+      Name: font/critnum
+      Dependencies: {}
+    Info_18:
+      Name: icon/111013
+      Dependencies: {}
+    Info_19:
+      Name: icon/114015
+      Dependencies: {}
+    Info_20:
+      Name: icon/44054
+      Dependencies: {}
+    Info_21:
+      Name: icon/1001
+      Dependencies: {}
+    Info_22:
+      Name: icon/44012
+      Dependencies: {}
+    Info_23:
+      Name: icon/111011
+      Dependencies: {}
+    Info_24:
+      Name: icon/114014
+      Dependencies: {}
+    Info_25:
+      Name: icon/skill/100
+      Dependencies: {}
+    Info_26:
+      Name: icon/44033
+      Dependencies: {}
+    Info_27:
+      Name: icon/112011
+      Dependencies: {}
+    Info_28:
+      Name: icon/44061
+      Dependencies: {}
+    Info_29:
+      Name: icon/116011
+      Dependencies: {}
+    Info_30:
+      Name: icon/44026
+      Dependencies: {}
+    Info_31:
+      Name: icon/112021
+      Dependencies: {}
+    Info_32:
+      Name: icon/44042
+      Dependencies: {}
+    Info_33:
+      Name: icon/116013
+      Dependencies: {}
+    Info_34:
+      Name: icon/116028
+      Dependencies: {}
+    Info_35:
+      Name: icon/0
+      Dependencies: {}
+    Info_36:
+      Name: icon/42026
+      Dependencies: {}
+    Info_37:
+      Name: icon/skill/102
+      Dependencies: {}
+    Info_38:
+      Name: icon/skill/110
+      Dependencies: {}
+    Info_39:
+      Name: icon/116015
+      Dependencies: {}
+    Info_40:
+      Name: prefabs/map/box_c7
+      Dependencies: {}
+    Info_41:
+      Name: prefabs/map/buildings_k3
+      Dependencies: {}
+    Info_42:
+      Name: prefabs/map/tree_a18
+      Dependencies: {}
+    Info_43:
+      Name: prefabs/map/plants_tree_b3
+      Dependencies: {}
+    Info_44:
+      Name: prefabs/map/props_b6_2
+      Dependencies: {}
+    Info_45:
+      Name: prefabs/map/box_f6
+      Dependencies: {}
+    Info_46:
+      Name: prefabs/map/box_m5
+      Dependencies: {}
+    Info_47:
+      Name: prefabs/map/box_m2d
+      Dependencies: {}
+    Info_48:
+      Name: prefabs/map/box_c4
+      Dependencies: {}
+    Info_49:
+      Name: prefabs/map/plants_flower_b5
+      Dependencies: {}
+    Info_50:
+      Name: prefabs/map/box_m2_stair
+      Dependencies: {}
+    Info_51:
+      Name: prefabs/map/box_m2b
+      Dependencies: {}
+    Info_52:
+      Name: prefabs/map/box_c2
+      Dependencies: {}
+    Info_53:
+      Name: prefabs/map/box_b8
+      Dependencies: {}
+    Info_54:
+      Name: prefabs/map/plants_grass_g4
+      Dependencies: {}
+    Info_55:
+      Name: prefabs/map/rock_22
+      Dependencies: {}
+    Info_56:
+      Name: prefabs/map/buildings_i3
+      Dependencies: {}
+    Info_57:
+      Name: prefabs/map/plants_grass_f3
+      Dependencies: {}
+    Info_58:
+      Name: prefabs/item/coin
+      Dependencies:
+        Dependency_0: animation/hitback
+    Info_59:
+      Name: prefabs/map/props_a8
+      Dependencies: {}
+    Info_60:
+      Name: prefabs/map/rock_20
+      Dependencies: {}
+    Info_61:
+      Name: prefabs/map/plants_tree_f2
+      Dependencies: {}
+    Info_62:
+      Name: prefabs/map/tree_a17
+      Dependencies: {}
+    Info_63:
+      Name: prefabs/map/plants_tree_ab6
+      Dependencies: {}
+    Info_64:
+      Name: prefabs/map/box_m8_stair
+      Dependencies: {}
+    Info_65:
+      Name: prefabs/map/plants_flower_f1
+      Dependencies: {}
+    Info_66:
+      Name: prefabs/map/plants_grass_b2
+      Dependencies: {}
+    Info_67:
+      Name: prefabs/map/plants_flower_e3
+      Dependencies: {}
+    Info_68:
+      Name: prefabs/map/tree_a5
+      Dependencies: {}
+    Info_69:
+      Name: prefabs/map/box_m5d
+      Dependencies: {}
+    Info_70:
+      Name: prefabs/map/props_b1_4
+      Dependencies: {}
+    Info_71:
+      Name: prefabs/map/plants_grass_c2
+      Dependencies: {}
+    Info_72:
+      Name: prefabs/map/props_b2_2
+      Dependencies: {}
+    Info_73:
+      Name: prefabs/map/plants_flower_a6
+      Dependencies: {}
+    Info_74:
+      Name: prefabs/map/rock_9
+      Dependencies: {}
+    Info_75:
+      Name: prefabs/map/box_m7c
+      Dependencies: {}
+    Info_76:
+      Name: materials/uinoalpha
+      Dependencies: {}
+    Info_77:
+      Name: prefabs/map/props_b5_4
+      Dependencies: {}
+    Info_78:
+      Name: prefabs/map/box_m8
+      Dependencies: {}
+    Info_79:
+      Name: prefabs/map/box_m6_stairb
+      Dependencies: {}
+    Info_80:
+      Name: prefabs/map/box_m1_stair
+      Dependencies: {}
+    Info_81:
+      Name: prefabs/map/plants_flower_c2
+      Dependencies: {}
+    Info_82:
+      Name: prefabs/map/rock_5
+      Dependencies: {}
+    Info_83:
+      Name: prefabs/map/box_f3
+      Dependencies: {}
+    Info_84:
+      Name: prefabs/map/props_c16
+      Dependencies: {}
+    Info_85:
+      Name: prefabs/map/props_b2_1
+      Dependencies: {}
+    Info_86:
+      Name: prefabs/map/plants_flower_d1
+      Dependencies: {}
+    Info_87:
+      Name: prefabs/map/box_m7d
+      Dependencies: {}
+    Info_88:
+      Name: prefabs/map/rock_10
+      Dependencies: {}
+    Info_89:
+      Name: prefabs/map/props_c29_1
+      Dependencies: {}
+    Info_90:
+      Name: prefabs/map/props_c24_6
+      Dependencies: {}
+    Info_91:
+      Name: sprite/public
+      Dependencies:
+        Dependency_0: arts/public
+    Info_92:
+      Name: prefabs/map/plants_flower_b6
+      Dependencies: {}
+    Info_93:
+      Name: prefabs/map/props_b3_1
+      Dependencies: {}
+    Info_94:
+      Name: prefabs/map/tree_a12
+      Dependencies: {}
+    Info_95:
+      Name: prefabs/item/crystal
+      Dependencies: {}
+    Info_96:
+      Name: prefabs/map/buildings_e2
+      Dependencies: {}
+    Info_97:
+      Name: prefabs/map/tree_a11
+      Dependencies: {}
+    Info_98:
+      Name: ui/panelequip
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_99:
+      Name: prefabs/map/box_o1
+      Dependencies: {}
+    Info_100:
+      Name: prefabs/map/box_a1
+      Dependencies: {}
+    Info_101:
+      Name: prefabs/map/plants_tree_ab4
+      Dependencies: {}
+    Info_102:
+      Name: prefabs/map/props_c24_3
+      Dependencies: {}
+    Info_103:
+      Name: prefabs/map/plants_tree_d5
+      Dependencies: {}
+    Info_104:
+      Name: prefabs/map/rock_26
+      Dependencies: {}
+    Info_105:
+      Name: prefabs/map/plants_flower_a4
+      Dependencies: {}
+    Info_106:
+      Name: prefabs/character/king
+      Dependencies:
+        Dependency_0: materials/rttshadowmaterial
+        Dependency_1: animation/kingcontroller
+    Info_107:
+      Name: prefabs/map/box_m4d
+      Dependencies: {}
+    Info_108:
+      Name: prefabs/map/box_m3_stairb
+      Dependencies: {}
+    Info_109:
+      Name: prefabs/map/plants_tree_f3
+      Dependencies: {}
+    Info_110:
+      Name: prefabs/map/plants_tree_ab1
+      Dependencies: {}
+    Info_111:
+      Name: prefabs/map/box_d1
+      Dependencies: {}
+    Info_112:
+      Name: prefabs/map/box_m6d
+      Dependencies: {}
+    Info_113:
+      Name: prefabs/map/box_d3
+      Dependencies: {}
+    Info_114:
+      Name: prefabs/map/plants_tree_ab5
+      Dependencies: {}
+    Info_115:
+      Name: prefabs/map/buildings_f1
+      Dependencies: {}
+    Info_116:
+      Name: sprite/battle
+      Dependencies:
+        Dependency_0: arts/battle
+    Info_117:
+      Name: ui/widget/critnum3d
+      Dependencies:
+        Dependency_0: font/critnum
+    Info_118:
+      Name: prefabs/map/props_a1
+      Dependencies: {}
+    Info_119:
+      Name: prefabs/map/buildings_b1
+      Dependencies: {}
+    Info_120:
+      Name: prefabs/map/buildings_h2
+      Dependencies: {}
+    Info_121:
+      Name: prefabs/map/props_b19_2
+      Dependencies: {}
+    Info_122:
+      Name: prefabs/map/plants_tree_b4
+      Dependencies: {}
+    Info_123:
+      Name: prefabs/map/buildings_j1_1
+      Dependencies: {}
+    Info_124:
+      Name: prefabs/map/props_b22_1
+      Dependencies: {}
+    Info_125:
+      Name: prefabs/map/plants_flower_e2
+      Dependencies: {}
+    Info_126:
+      Name: prefabs/map/rock_14
+      Dependencies: {}
+    Info_127:
+      Name: prefabs/map/buildings_b2
+      Dependencies: {}
+    Info_128:
+      Name: prefabs/map/rock_13
+      Dependencies: {}
+    Info_129:
+      Name: prefabs/map/box_m5b
+      Dependencies: {}
+    Info_130:
+      Name: prefabs/map/plants_tree_d6
+      Dependencies: {}
+    Info_131:
+      Name: prefabs/map/plants_tree_d3
+      Dependencies: {}
+    Info_132:
+      Name: prefabs/map/buildings_i6
+      Dependencies: {}
+    Info_133:
+      Name: prefabs/map/rock_1
+      Dependencies: {}
+    Info_134:
+      Name: prefabs/map/plants_grass_a3
+      Dependencies: {}
+    Info_135:
+      Name: prefabs/map/props_b6_1
+      Dependencies: {}
+    Info_136:
+      Name: prefabs/map/plants_grass_d4
+      Dependencies: {}
+    Info_137:
+      Name: ui/paneltip
+      Dependencies: {}
+    Info_138:
+      Name: prefabs/map/plants_tree_a1
+      Dependencies: {}
+    Info_139:
+      Name: prefabs/map/box_m7_stairb
+      Dependencies: {}
+    Info_140:
+      Name: prefabs/map/box_d2
+      Dependencies: {}
+    Info_141:
+      Name: prefabs/map/plants_tree_c5
+      Dependencies: {}
+    Info_142:
+      Name: prefabs/map/props_c26
+      Dependencies: {}
+    Info_143:
+      Name: prefabs/map/tree_a10
+      Dependencies: {}
+    Info_144:
+      Name: prefabs/map/buildings_i4
+      Dependencies: {}
+    Info_145:
+      Name: prefabs/map/props_c24_4
+      Dependencies: {}
+    Info_146:
+      Name: prefabs/map/props_b4_2
+      Dependencies: {}
+    Info_147:
+      Name: prefabs/map/plants_grass_c4
+      Dependencies: {}
+    Info_148:
+      Name: prefabs/map/buildings_f3
+      Dependencies: {}
+    Info_149:
+      Name: prefabs/map/tree_a2
+      Dependencies: {}
+    Info_150:
+      Name: prefabs/map/plants_tree_f4
+      Dependencies: {}
+    Info_151:
+      Name: prefabs/map/buildings_k2
+      Dependencies: {}
+    Info_152:
+      Name: prefabs/map/props_a4
+      Dependencies: {}
+    Info_153:
+      Name: prefabs/map/rock_6
+      Dependencies: {}
+    Info_154:
+      Name: prefabs/map/plants_flower_e4
+      Dependencies: {}
+    Info_155:
+      Name: prefabs/map/plants_tree_d2
+      Dependencies: {}
+    Info_156:
+      Name: prefabs/map/props_b4_4
+      Dependencies: {}
+    Info_157:
+      Name: prefabs/map/box_m3_stair
+      Dependencies: {}
+    Info_158:
+      Name: prefabs/map/rock_25
+      Dependencies: {}
+    Info_159:
+      Name: prefabs/map/box_m6b
+      Dependencies: {}
+    Info_160:
+      Name: prefabs/map/plants_flower_a5
+      Dependencies: {}
+    Info_161:
+      Name: prefabs/map/box_m5_stair
+      Dependencies: {}
+    Info_162:
+      Name: prefabs/map/plants_flower_e1
+      Dependencies: {}
+    Info_163:
+      Name: prefabs/map/box_b4
+      Dependencies: {}
+    Info_164:
+      Name: prefabs/map/box_m2_stairb
+      Dependencies: {}
+    Info_165:
+      Name: ui/panelbag
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_166:
+      Name: prefabs/map/plants_tree_d1
+      Dependencies: {}
+    Info_167:
+      Name: prefabs/map/buildings_d2
+      Dependencies: {}
+    Info_168:
+      Name: prefabs/map/plants_grass_a2
+      Dependencies: {}
+    Info_169:
+      Name: prefabs/map/plants_grass_f2
+      Dependencies: {}
+    Info_170:
+      Name: prefabs/map/props_b7_2
+      Dependencies: {}
+    Info_171:
+      Name: prefabs/map/box_f10
+      Dependencies: {}
+    Info_172:
+      Name: prefabs/map/plants_flower_g3
+      Dependencies: {}
+    Info_173:
+      Name: prefabs/map/tree_a20
+      Dependencies: {}
+    Info_174:
+      Name: ui/widget/critnum
+      Dependencies:
+        Dependency_0: font/critnum
+    Info_175:
+      Name: prefabs/map/box_o8
+      Dependencies: {}
+    Info_176:
+      Name: prefabs/map/box_b3
+      Dependencies: {}
+    Info_177:
+      Name: animation/hitback
+      Dependencies: {}
+    Info_178:
+      Name: prefabs/map/box_a8
+      Dependencies: {}
+    Info_179:
+      Name: prefabs/map/box_m5c
+      Dependencies: {}
+    Info_180:
+      Name: prefabs/map/buildings_e3
+      Dependencies: {}
+    Info_181:
+      Name: prefabs/map/box_a2
+      Dependencies: {}
+    Info_182:
+      Name: prefabs/map/props_a5
+      Dependencies: {}
+    Info_183:
+      Name: prefabs/map/plants_grass_g2
+      Dependencies: {}
+    Info_184:
+      Name: prefabs/map/box_c6
+      Dependencies: {}
+    Info_185:
+      Name: prefabs/map/box_m4b
+      Dependencies: {}
+    Info_186:
+      Name: sprite/menu
+      Dependencies:
+        Dependency_0: arts/menu
+    Info_187:
+      Name: prefabs/environment/box
+      Dependencies: {}
+    Info_188:
+      Name: prefabs/map/box_d8
+      Dependencies: {}
+    Info_189:
+      Name: prefabs/map/buildings_k1
+      Dependencies: {}
+    Info_190:
+      Name: ui/panelmain
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: materials/uinoalpha
+        Dependency_2: animation/kingcontroller
+        Dependency_3: animation/btn
+    Info_191:
+      Name: prefabs/map/box_m6c
+      Dependencies: {}
+    Info_192:
+      Name: prefabs/map/plants_tree_ab7
+      Dependencies: {}
+    Info_193:
+      Name: prefabs/map/box_f1
+      Dependencies: {}
+    Info_194:
+      Name: prefabs/map/box_b1
+      Dependencies: {}
+    Info_195:
+      Name: prefabs/map/box_m8c
+      Dependencies: {}
+    Info_196:
+      Name: prefabs/map/plants_flower_g2
+      Dependencies: {}
+    Info_197:
+      Name: prefabs/map/buildings_b3
+      Dependencies: {}
+    Info_198:
+      Name: prefabs/map/props_b5_3
+      Dependencies: {}
+    Info_199:
+      Name: ui/panelbattlebalance
+      Dependencies:
+        Dependency_0: arts/public
+    Info_200:
+      Name: prefabs/map/plants_grass_g3
+      Dependencies: {}
+    Info_201:
+      Name: prefabs/map/plants_tree_a4
+      Dependencies: {}
+    Info_202:
+      Name: prefabs/map/plants_flower_b4
+      Dependencies: {}
+    Info_203:
+      Name: prefabs/map/box_c5
+      Dependencies: {}
+    Info_204:
+      Name: prefabs/map/rock_12
+      Dependencies: {}
+    Info_205:
+      Name: prefabs/map/props_b21_3
+      Dependencies: {}
+    Info_206:
+      Name: prefabs/map/plants_tree_d4
+      Dependencies: {}
+    Info_207:
+      Name: prefabs/enemy/1001
+      Dependencies:
+        Dependency_0: materials/shadowmaterial
+        Dependency_1: ai/monsterclose
+    Info_208:
+      Name: prefabs/map/props_b7_1
+      Dependencies: {}
+    Info_209:
+      Name: ui/panelmenu
+      Dependencies:
+        Dependency_0: arts/menu
+        Dependency_1: arts/public
+        Dependency_2: animation/btn
+    Info_210:
+      Name: prefabs/map/rock_21
+      Dependencies: {}
+    Info_211:
+      Name: ui/panelalert
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_212:
+      Name: prefabs/map/buildings_a1
+      Dependencies: {}
+    Info_213:
+      Name: prefabs/map/props_c29_2
+      Dependencies: {}
+    Info_214:
+      Name: prefabs/map/props_c24_1
+      Dependencies: {}
+    Info_215:
+      Name: prefabs/map/props_c24_2
+      Dependencies: {}
+    Info_216:
+      Name: prefabs/map/plants_tree_c4
+      Dependencies: {}
+    Info_217:
+      Name: prefabs/map/buildings_c1
+      Dependencies: {}
+    Info_218:
+      Name: prefabs/map/rock_16
+      Dependencies: {}
+    Info_219:
+      Name: prefabs/map/plants_flower_a2
+      Dependencies: {}
+    Info_220:
+      Name: prefabs/map/box_d6
+      Dependencies: {}
+    Info_221:
+      Name: prefabs/map/tree_a7
+      Dependencies: {}
+    Info_222:
+      Name: prefabs/map/plants_flower_a3
+      Dependencies: {}
+    Info_223:
+      Name: prefabs/map/props_a7
+      Dependencies: {}
+    Info_224:
+      Name: prefabs/map/box_m5_stairb
+      Dependencies: {}
+    Info_225:
+      Name: prefabs/map/plants_flower_c3
+      Dependencies: {}
+    Info_226:
+      Name: prefabs/map/props_b3_2
+      Dependencies: {}
+    Info_227:
+      Name: prefabs/map/box_b6
+      Dependencies: {}
+    Info_228:
+      Name: prefabs/map/box_o7
+      Dependencies: {}
+    Info_229:
+      Name: materials/shadowmaterial
+      Dependencies: {}
+    Info_230:
+      Name: ui/widget/healthbar
+      Dependencies: {}
+    Info_231:
+      Name: prefabs/map/props_c4_1
+      Dependencies: {}
+    Info_232:
+      Name: prefabs/map/plants_grass_b1
+      Dependencies: {}
+    Info_233:
+      Name: prefabs/map/props_a2
+      Dependencies: {}
+    Info_234:
+      Name: prefabs/map/box_b7
+      Dependencies: {}
+    Info_235:
+      Name: prefabs/map/buildings_c2
+      Dependencies: {}
+    Info_236:
+      Name: prefabs/map/tree_a13
+      Dependencies: {}
+    Info_237:
+      Name: prefabs/map/tree_a3
+      Dependencies: {}
+    Info_238:
+      Name: prefabs/map/box_m1c
+      Dependencies: {}
+    Info_239:
+      Name: prefabs/map/tree_a16
+      Dependencies: {}
+    Info_240:
+      Name: prefabs/map/rock_19
+      Dependencies: {}
+    Info_241:
+      Name: prefabs/map/tree_a6
+      Dependencies: {}
+    Info_242:
+      Name: prefabs/map/props_c9_3
+      Dependencies: {}
+    Info_243:
+      Name: prefabs/map/props_b4_6
+      Dependencies: {}
+    Info_244:
+      Name: prefabs/map/box_m7_stair
+      Dependencies: {}
+    Info_245:
+      Name: prefabs/map/props_b4_1
+      Dependencies: {}
+    Info_246:
+      Name: prefabs/map/plants_tree_b1
+      Dependencies: {}
+    Info_247:
+      Name: prefabs/map/plants_flower_a7
+      Dependencies: {}
+    Info_248:
+      Name: prefabs/map/box_m6
+      Dependencies: {}
+    Info_249:
+      Name: prefabs/map/plants_flower_b2
+      Dependencies: {}
+    Info_250:
+      Name: prefabs/map/box_f4
+      Dependencies: {}
+    Info_251:
+      Name: materials/colortexmaterial
+      Dependencies: {}
+    Info_252:
+      Name: prefabs/map/rock_18
+      Dependencies: {}
+    Info_253:
+      Name: prefabs/map/box_m4
+      Dependencies: {}
+    Info_254:
+      Name: prefabs/map/props_b4_5
+      Dependencies: {}
+    Info_255:
+      Name: prefabs/map/box_m8b
+      Dependencies: {}
+    Info_256:
+      Name: prefabs/map/box_m1_stairb
+      Dependencies: {}
+    Info_257:
+      Name: prefabs/map/plants_tree_a5
+      Dependencies: {}
+    Info_258:
+      Name: prefabs/map/plants_grass_f1
+      Dependencies: {}
+    Info_259:
+      Name: prefabs/map/props_c24_5
+      Dependencies: {}
+    Info_260:
+      Name: prefabs/map/box_d5_stair
+      Dependencies: {}
+    Info_261:
+      Name: prefabs/map/rock_11
+      Dependencies: {}
+    Info_262:
+      Name: prefabs/map/rock_3
+      Dependencies: {}
+    Info_263:
+      Name: prefabs/map/box_m7
+      Dependencies: {}
+    Info_264:
+      Name: prefabs/map/tree_a1
+      Dependencies: {}
+    Info_265:
+      Name: prefabs/map/props_a10
+      Dependencies: {}
+    Info_266:
+      Name: ui/panelupdate
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_267:
+      Name: prefabs/map/rock_7
+      Dependencies: {}
+    Info_268:
+      Name: prefabs/map/plants_tree_a7
+      Dependencies: {}
+    Info_269:
+      Name: prefabs/map/rock_8
+      Dependencies: {}
+    Info_270:
+      Name: prefabs/map/box_f8
+      Dependencies: {}
+    Info_271:
+      Name: prefabs/map/props_b1_2
+      Dependencies: {}
+    Info_272:
+      Name: prefabs/map/buildings_f2
+      Dependencies: {}
+    Info_273:
+      Name: prefabs/map/tree_a9
+      Dependencies: {}
+    Info_274:
+      Name: prefabs/map/box_d6_stair
+      Dependencies: {}
+    Info_275:
+      Name: prefabs/map/plants_grass_a1
+      Dependencies: {}
+    Info_276:
+      Name: prefabs/map/tree_a21
+      Dependencies: {}
+    Info_277:
+      Name: prefabs/map/box_o2
+      Dependencies: {}
+    Info_278:
+      Name: prefabs/map/box_m3d
+      Dependencies: {}
+    Info_279:
+      Name: prefabs/map/box_a5
+      Dependencies: {}
+    Info_280:
+      Name: prefabs/map/box_a4
+      Dependencies: {}
+    Info_281:
+      Name: ui/panelwait
+      Dependencies:
+        Dependency_0: arts/public
+    Info_282:
+      Name: prefabs/map/buildings_i2
+      Dependencies: {}
+    Info_283:
+      Name: prefabs/map/plants_grass_g1
+      Dependencies: {}
+    Info_284:
+      Name: prefabs/map/buildings_g1
+      Dependencies: {}
+    Info_285:
+      Name: prefabs/map/box_d4
+      Dependencies: {}
+    Info_286:
+      Name: prefabs/map/buildings_d1
+      Dependencies: {}
+    Info_287:
+      Name: prefabs/map/plants_flower_c1
+      Dependencies: {}
+    Info_288:
+      Name: prefabs/map/plants_tree_f1
+      Dependencies: {}
+    Info_289:
+      Name: prefabs/map/props_a6
+      Dependencies: {}
+    Info_290:
+      Name: prefabs/map/box_m2c
+      Dependencies: {}
+    Info_291:
+      Name: prefabs/map/buildings_i5
+      Dependencies: {}
+    Info_292:
+      Name: prefabs/map/box_m3b
+      Dependencies: {}
+    Info_293:
+      Name: ui/panellogin
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_294:
+      Name: prefabs/map/box_m2
+      Dependencies: {}
+    Info_295:
+      Name: prefabs/map/plants_tree_c2
+      Dependencies: {}
+    Info_296:
+      Name: prefabs/map/plants_flower_f4
+      Dependencies: {}
+    Info_297:
+      Name: prefabs/map/props_b4_3
+      Dependencies: {}
+    Info_298:
+      Name: prefabs/map/box_m4_stairb
+      Dependencies: {}
+    Info_299:
+      Name: prefabs/map/box_d5
+      Dependencies: {}
+    Info_300:
+      Name: ui/panelitemdetail
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_301:
+      Name: prefabs/map/props_c25
+      Dependencies: {}
+    Info_302:
+      Name: prefabs/map/props_b6_3
+      Dependencies: {}
+    Info_303:
+      Name: prefabs/map/box_m8_stairb
+      Dependencies: {}
+    Info_304:
+      Name: materials/rttshadowmaterial
+      Dependencies: {}
+    Info_305:
+      Name: prefabs/map/plants_tree_a6
+      Dependencies: {}
+    Info_306:
+      Name: prefabs/map/box_m3c
+      Dependencies: {}
+    Info_307:
+      Name: prefabs/map/box_m6_stair
+      Dependencies: {}
+    Info_308:
+      Name: prefabs/map/props_b21_2
+      Dependencies: {}
+    Info_309:
+      Name: prefabs/map/plants_flower_g1
+      Dependencies: {}
+    Info_310:
+      Name: prefabs/map/plants_tree_b2
+      Dependencies: {}
+    Info_311:
+      Name: prefabs/map/box_o6
+      Dependencies: {}
+    Info_312:
+      Name: prefabs/map/box_a3
+      Dependencies: {}
+    Info_313:
+      Name: prefabs/map/plants_tree_ab2
+      Dependencies: {}
+    Info_314:
+      Name: prefabs/hitback
+      Dependencies:
+        Dependency_0: animation/hitback
+    Info_315:
+      Name: prefabs/map/box_d7
+      Dependencies: {}
+    Info_316:
+      Name: prefabs/map/plants_flower_b3
+      Dependencies: {}
+    Info_317:
+      Name: prefabs/map/tree_a8
+      Dependencies: {}
+    Info_318:
+      Name: prefabs/map/box_c3
+      Dependencies: {}
+    Info_319:
+      Name: prefabs/map/props_b19_4
+      Dependencies: {}
+    Info_320:
+      Name: prefabs/map/box_f2
+      Dependencies: {}
+    Info_321:
+      Name: prefabs/map/plants_flower_f3
+      Dependencies: {}
+    Info_322:
+      Name: prefabs/map/props_c23_1
+      Dependencies: {}
+    Info_323:
+      Name: prefabs/map/box_m4c
+      Dependencies: {}
+    Info_324:
+      Name: prefabs/touchcontroller
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_325:
+      Name: prefabs/map/props_c23_2
+      Dependencies: {}
+    Info_326:
+      Name: prefabs/map/buildings_e1
+      Dependencies: {}
+    Info_327:
+      Name: prefabs/map/rock_4
+      Dependencies: {}
+    Info_328:
+      Name: prefabs/map/rock_17
+      Dependencies: {}
+    Info_329:
+      Name: prefabs/map/box_c1
+      Dependencies: {}
+    Info_330:
+      Name: prefabs/map/tree_a14
+      Dependencies: {}
+    Info_331:
+      Name: prefabs/map/box_b2
+      Dependencies: {}
+    Info_332:
+      Name: prefabs/map/box_b5
+      Dependencies: {}
+    Info_333:
+      Name: prefabs/map/props_b3_3
+      Dependencies: {}
+    Info_334:
+      Name: prefabs/map/plants_flower_c4
+      Dependencies: {}
+    Info_335:
+      Name: ui/panelgift
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: animation/btn
+    Info_336:
+      Name: prefabs/map/box_f7
+      Dependencies: {}
+    Info_337:
+      Name: prefabs/map/plants_flower_g4
+      Dependencies: {}
+    Info_338:
+      Name: prefabs/map/buildings_a2
+      Dependencies: {}
+    Info_339:
+      Name: ui/panelbattle
+      Dependencies:
+        Dependency_0: arts/public
+        Dependency_1: arts/battle
+        Dependency_2: animation/btn
+    Info_340:
+      Name: prefabs/map/plants_grass_d1
+      Dependencies: {}
+    Info_341:
+      Name: prefabs/map/plants_flower_d2
+      Dependencies: {}
+    Info_342:
+      Name: prefabs/map/box_m3
+      Dependencies: {}
+    Info_343:
+      Name: prefabs/map/tree_a19
+      Dependencies: {}
+    Info_344:
+      Name: prefabs/map/box_o4
+      Dependencies: {}
+    Info_345:
+      Name: prefabs/map/plants_grass_d3
+      Dependencies: {}
+    Info_346:
+      Name: prefabs/map/plants_flower_b1
+      Dependencies: {}
+    Info_347:
+      Name: prefabs/map/props_b5_2
+      Dependencies: {}
+    Info_348:
+      Name: prefabs/map/plants_grass_c1
+      Dependencies: {}
+    Info_349:
+      Name: prefabs/map/rock_28
+      Dependencies: {}
+    Info_350:
+      Name: prefabs/map/plants_tree_ab3
+      Dependencies: {}
+    Info_351:
+      Name: prefabs/map/props_a3
+      Dependencies: {}
+    Info_352:
+      Name: prefabs/map/plants_flower_a1
+      Dependencies: {}
+    Info_353:
+      Name: prefabs/map/box_f9
+      Dependencies: {}
+    Info_354:
+      Name: prefabs/map/plants_grass_c3
+      Dependencies: {}
+    Info_355:
+      Name: prefabs/map/plants_flower_d3
+      Dependencies: {}
+    Info_356:
+      Name: prefabs/map/plants_tree_a3
+      Dependencies: {}
+    Info_357:
+      Name: prefabs/map/box_f5
+      Dependencies: {}
+    Info_358:
+      Name: prefabs/map/plants_grass_d2
+      Dependencies: {}
+    Info_359:
+      Name: prefabs/map/buildings_c3
+      Dependencies: {}
+    Info_360:
+      Name: prefabs/map/box_m1b
+      Dependencies: {}
+    Info_361:
+      Name: prefabs/map/box_m1
+      Dependencies: {}
+    Info_362:
+      Name: prefabs/map/props_c14_1
+      Dependencies: {}
+    Info_363:
+      Name: prefabs/map/box_m4_stair
+      Dependencies: {}
+    Info_364:
+      Name: prefabs/map/tree_a4
+      Dependencies: {}
+    Info_365:
+      Name: prefabs/hitfly
+      Dependencies:
+        Dependency_0: animation/hitfly
+    Info_366:
+      Name: prefabs/map/props_b6_4
+      Dependencies: {}
+    Info_367:
+      Name: prefabs/map/box_a6
+      Dependencies: {}
+    Info_368:
+      Name: prefabs/map/box_o5
+      Dependencies: {}
+    Info_369:
+      Name: prefabs/map/rock_2
+      Dependencies: {}
+    Info_370:
+      Name: ui/widget/bagitem
+      Dependencies:
+        Dependency_0: arts/public
+    Info_371:
+      Name: prefabs/map/rock_15
+      Dependencies: {}
+    Info_372:
+      Name: prefabs/map/rock_23
+      Dependencies: {}
+    Info_373:
+      Name: prefabs/map/plants_tree_a2
+      Dependencies: {}
+    Info_374:
+      Name: prefabs/map/box_o3
+      Dependencies: {}
+    Info_375:
+      Name: animation/hitfly
+      Dependencies: {}
+    Info_376:
+      Name: prefabs/map/plants_flower_f2
+      Dependencies: {}
+    Info_377:
+      Name: prefabs/map/props_b21_1
+      Dependencies: {}
+    Info_378:
+      Name: prefabs/map/props_b5_1
+      Dependencies: {}
+    Info_379:
+      Name: prefabs/map/plants_tree_c3
+      Dependencies: {}
+    Info_380:
+      Name: prefabs/map/box_c8
+      Dependencies: {}
+    Info_381:
+      Name: prefabs/map/props_b1_3
+      Dependencies: {}
+    Info_382:
+      Name: prefabs/map/box_m8d
+      Dependencies: {}
+    Info_383:
+      Name: prefabs/map/rock_27
+      Dependencies: {}
+    Info_384:
+      Name: prefabs/map/rock_24
+      Dependencies: {}
+    Info_385:
+      Name: prefabs/map/tree_a15
+      Dependencies: {}
+    Info_386:
+      Name: prefabs/map/buildings_i1
+      Dependencies: {}
+    Info_387:
+      Name: prefabs/map/plants_flower_d4
+      Dependencies: {}
+    Info_388:
+      Name: prefabs/map/plants_tree_c1
+      Dependencies: {}
+    Info_389:
+      Name: prefabs/map/props_a9
+      Dependencies: {}
+    Info_390:
+      Name: prefabs/map/props_b22_2
+      Dependencies: {}
+    Info_391:
+      Name: prefabs/map/box_m1d
+      Dependencies: {}
+    Info_392:
+      Name: prefabs/map/box_a7
+      Dependencies: {}
+    Info_393:
+      Name: prefabs/map/buildings_g2
+      Dependencies: {}
+    Info_394:
+      Name: prefabs/map/buildings_h1
+      Dependencies: {}
+    Info_395:
+      Name: prefabs/map/props_b1_1
+      Dependencies: {}
+    Info_396:
+      Name: prefabs/environment/treasure
+      Dependencies: {}
+    Info_397:
+      Name: prefabs/map/box_m7b
+      Dependencies: {}
+    Info_398:
+      Name: cfg/equip
+      Dependencies: {}
+    Info_399:
+      Name: cfg/item
+      Dependencies: {}
+    Info_400:
+      Name: localization/zh-cn
+      Dependencies: {}
+    Info_401:
+      Name: animation/kingcontroller
+      Dependencies: {}
+    Info_402:
+      Name: animation/btn
+      Dependencies: {}
+    Info_403:
+      Name: ai/simple
+      Dependencies: {}
+    Info_404:
+      Name: ai/monsterclose
+      Dependencies: {}
+    Info_405:
+      Name: ai/monsterrange
+      Dependencies: {}
+    Info_406:
+      Name: cfg/buff
+      Dependencies: {}
+    Info_407:
+      Name: cfg/monster
+      Dependencies: {}
+    Info_408:
+      Name: cfg/skill
+      Dependencies: {}
+    Info_409:
+      Name: cfg/skilleffect
+      Dependencies: {}
+    Info_410:
+      Name: cfg/skillsummon
+      Dependencies: {}
+    Info_411:
+      Name: font/hpaddnum
+      Dependencies: {}
+    Info_412:
+      Name: prefabs/effect/buff/fx_buffjianshangguanghuan
+      Dependencies: {}
+    Info_413:
+      Name: prefabs/effect/buff/fx_buffxuruoguanghuan
+      Dependencies: {}
+    Info_414:
+      Name: prefabs/effect/buff/fx_buff_addhp
+      Dependencies: {}
+    Info_415:
+      Name: prefabs/effect/buff/fx_hudun_001
+      Dependencies: {}
+    Info_416:
+      Name: prefabs/effect/buff/fx_hunmi_001
+      Dependencies: {}
+    Info_417:
+      Name: prefabs/effect/buff/fx_hunshui001
+      Dependencies: {}
+    Info_418:
+      Name: prefabs/effect/buff/fx_molixuanjing_001
+      Dependencies: {}
+    Info_419:
+      Name: prefabs/effect/buff/fx_poisonbuf
+      Dependencies: {}
+    Info_420:
+      Name: prefabs/effect/buff/fx_ranshao_001
+      Dependencies: {}
+    Info_421:
+      Name: prefabs/effect/buff/fx_shufu_001
+      Dependencies: {}
+    Info_422:
+      Name: prefabs/effect/hit/fx_hit
+      Dependencies: {}
+    Info_423:
+      Name: prefabs/effect/hit/fx_hit_fire
+      Dependencies: {}
+    Info_424:
+      Name: prefabs/effect/hit/fx_hit_ice
+      Dependencies: {}
+    Info_425:
+      Name: prefabs/effect/hit/fx_hit_poison
+      Dependencies: {}
+    Info_426:
+      Name: prefabs/effect/skill/fx_arrow
+      Dependencies: {}
+    Info_427:
+      Name: prefabs/effect/skill/fx_baltor_kid_v_roka_fly
+      Dependencies: {}
+    Info_428:
+      Name: prefabs/effect/skill/fx_dark_servant_skill01_buf
+      Dependencies: {}
+    Info_429:
+      Name: prefabs/effect/skill/fx_fire_arrow
+      Dependencies: {}
+    Info_430:
+      Name: prefabs/effect/skill/fx_ice_arrow
+      Dependencies: {}
+    Info_431:
+      Name: prefabs/effect/skill/fx_poison_cave_boss_kunkun_idlebuf
+      Dependencies: {}
+    Info_432:
+      Name: prefabs/effect/skill/qk_fire_arrow_01_projectile_01
+      Dependencies: {}
+    Info_433:
+      Name: prefabs/effect/skill/qk_fire_arrow_01_ready_01
+      Dependencies: {}
+    Info_434:
+      Name: prefabs/effect/skill/qk_ice_arrow_01_projectil_01
+      Dependencies: {}
+    Info_435:
+      Name: prefabs/effect/skill/qk_ice_arrow_01_ready_01
+      Dependencies: {}
+    Info_436:
+      Name: prefabs/enemy/bat
+      Dependencies:
+        Dependency_0: materials/shadowmaterial
+        Dependency_1: ai/monsterclose
+    Info_437:
+      Name: prefabs/npc/human_auctioneer01
+      Dependencies: {}
+    Info_438:
+      Name: prefabs/npc/human_gilliam
+      Dependencies: {}
+    Info_439:
+      Name: prefabs/npc/human_leia_prefab
+      Dependencies: {}
+    Info_440:
+      Name: prefabs/npc/human_myun
+      Dependencies: {}
+    Info_441:
+      Name: ui/widget/hpaddnum
+      Dependencies:
+        Dependency_0: font/hpaddnum

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2070741474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b2e8b434b8b04e53bf23b121f7c663f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e05b48bdf9804fabbe4e2bc3a785346
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animation/HitBack.anim
+Dependencies: []

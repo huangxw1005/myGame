@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 619885148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efa7d1e19644f224a581a1e80401b5d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f6516429a9524bf24d49ff4170e21f5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Font/HpAddNum.fontsettings
+- Assets/Resources/Font/HpAddNum.fnt
+- Assets/Resources/Font/HpAddNum.mat
+- Assets/Resources/Font/HpAddNum.png
+Dependencies: []

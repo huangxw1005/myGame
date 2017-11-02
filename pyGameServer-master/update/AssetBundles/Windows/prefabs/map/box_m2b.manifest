@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2325688225
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d4bf58b65d5b12ce38bb4d5a3e9c379
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e16558ed969ca57ae07a6affbc819c50
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Box_M2B.prefab
+Dependencies: []

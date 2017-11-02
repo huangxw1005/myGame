@@ -1,0 +1,4 @@
+{
+"1001":{"name": "÷¼÷Ã±ø", "desc":"÷¼÷Ã±ø", "prefab":"Prefabs/Enemy/1001", "bornSound":"", "deathSound":""},
+"1002":{"name": "òùòğ", "desc":"òùòğ", "prefab":"Prefabs/Enemy/bat", "bornSound":"", "deathSound":""}
+}

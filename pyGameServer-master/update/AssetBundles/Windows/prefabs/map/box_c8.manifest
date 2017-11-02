@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3211031319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0a4a99bbaa297a26afb5c837595f9ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 540d70e77afe6fd8bf6ece50cde760bc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Box_C8.prefab
+Dependencies: []

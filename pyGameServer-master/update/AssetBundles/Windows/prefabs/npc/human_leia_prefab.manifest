@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1960814294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ec53bd626cde99b9881cc058e4cd9a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b70ced1d17e2a0888cf765cb76d4cc3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/NPC/human_leia_prefab.prefab
+Dependencies: []

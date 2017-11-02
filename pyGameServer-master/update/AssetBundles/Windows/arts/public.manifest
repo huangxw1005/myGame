@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 436598116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e243dd8ed6de5d1bfe6126d5c0bf5e4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Public/joystick.png
+- Assets/Arts/Public/btn_2.png
+- Assets/Arts/Public/bg_1.png
+- Assets/Arts/Public/btn_attack.png
+- Assets/Arts/Public/btn_close.png
+- Assets/Arts/Public/bg_t0.png
+- Assets/Arts/Public/loading.png
+- Assets/Arts/Public/skill_mask.png
+- Assets/Arts/Public/bar.png
+- Assets/Arts/Public/power.png
+- Assets/Arts/Public/bg_t3.png
+- Assets/Arts/Public/cash.png
+- Assets/Arts/Public/item_q_4.png
+- Assets/Arts/Public/btn_jump.png
+- Assets/Arts/Public/bg_t2.png
+- Assets/Arts/Public/bar_bg.png
+- Assets/Arts/Public/item_q_1.png
+- Assets/Arts/Public/item_q_2.png
+- Assets/Arts/Public/btn_skill2.png
+- Assets/Arts/Public/joystick_bg.png
+- Assets/Arts/Public/item_q_3.png
+- Assets/Arts/Public/btn_skill3.png
+- Assets/Arts/Public/btn_skill1.png
+- Assets/Arts/Public/btn_1.png
+- Assets/Arts/Public/item_q_5.png
+- Assets/Arts/Public/coin.png
+- Assets/Arts/Public/bg_t1.png
+Dependencies: []

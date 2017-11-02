@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2076895148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acce279a8e02ef98db13e39eecff9fcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Battle/bar_exp.png
+- Assets/Arts/Battle/btn_pause.png
+- Assets/Arts/Battle/bar_bg.png
+- Assets/Arts/Battle/bar_hp.png
+- Assets/Arts/Battle/frame-face.png
+Dependencies: []

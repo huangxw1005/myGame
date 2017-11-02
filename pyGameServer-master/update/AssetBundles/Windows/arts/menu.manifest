@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1058016945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 331f9648cb607e873a274ea759b26d69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arts/Menu/s_icon_gift.png
+- Assets/Arts/Menu/bg_userinfo.png
+- Assets/Arts/Menu/icon_arena.png
+- Assets/Arts/Menu/icon_shop.png
+- Assets/Arts/Menu/icon_mail.png
+- Assets/Arts/Menu/icon_army.png
+- Assets/Arts/Menu/icon_skill.png
+Dependencies: []

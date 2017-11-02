@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1875237155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b49b7f3b3099b8606846d02dadc74bbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b8b64fe6b197a1fb681fa5eace4a658c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Plants_Grass_F3.prefab
+Dependencies: []

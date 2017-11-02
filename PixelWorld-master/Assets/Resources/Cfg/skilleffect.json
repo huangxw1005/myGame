@@ -1,0 +1,27 @@
+{
+"100":{"name": "增加hp", "trigger":0, "operation":1, "args":[0, 30]},
+"101":{"name": "增加hp（百分比）", "trigger":0, "operation":1, "args":[1, 5]},
+"102":{"name": "增加sp", "trigger":0, "operation":2, "args":[0, 10]},
+"103":{"name": "增加sp（百分比）", "trigger":0, "operation":2, "args":[1, 2]},
+
+"110":{"name": "命中恢复hp", "trigger":2, "operation":1, "args":[0, 10]},
+"111":{"name": "命中恢复hp（百分比）", "trigger":2, "operation":1, "args":[1, 1]},
+"112":{"name": "命中恢复sp", "trigger":2, "operation":2, "args":[0, 10]},
+"113":{"name": "命中恢复sp（百分比）", "trigger":2, "operation":2, "args":[1, 2]},
+
+"200":{"name": "buff-回血", "trigger":0, "operation":3, "args":[100]},
+"201":{"name": "buff-护盾", "trigger":0, "operation":3, "args":[101]},
+
+"300":{"name": "命中buff-晕眩", "trigger":2, "operation":3, "args":[102]},
+"301":{"name": "命中buff-燃烧", "trigger":2, "operation":3, "args":[103]},
+"302":{"name": "命中buff-中毒减速", "trigger":2, "operation":3, "args":[104]},
+
+"400":{"name": "群体buff-护盾", "trigger":1, "operation":4, "args":[101]},
+"401":{"name": "命中群体buff-燃烧", "trigger":2, "operation":4, "args":[103]},
+
+"1000":{"name": "发射一只眩晕箭(移动)", "trigger":1, "operation":5, "args":[100, 0, 1]},
+"1001":{"name": "射出三只箭（移动）", "trigger":1, "operation":5, "args":[101, 60, 5]},
+"1002":{"name": "发射一只火球(移动)", "trigger":1, "operation":5, "args":[102, 0, 1]},
+"1003":{"name": "朝目标召唤（移动，必有目标）", "trigger":1, "operation":6, "args":[100, 120, 1]},
+"1004":{"name": "目标点召唤（不移动，必有目标）陷阱", "trigger":1, "operation":7, "args":[103, 120, 1]}
+}

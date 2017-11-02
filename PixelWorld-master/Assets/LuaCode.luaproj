@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Lua\" />
+    <Folder Include="Lua\battle\" />
+    <Folder Include="Lua\controller\" />
+    <Folder Include="Lua\core\" />
+    <Folder Include="Lua\model\" />
+    <Folder Include="Lua\network\" />
+    <Folder Include="Lua\proto\" />
+    <Folder Include="Lua\scene\" />
+    <Folder Include="Lua\Window\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lua\battle\battle.lua" />
+    <Compile Include="Lua\battle\effect_mgr.lua" />
+    <Compile Include="Lua\battle\enemy_mgr.lua" />
+    <Compile Include="Lua\config.lua" />
+    <Compile Include="Lua\controller\open_win_cmd.lua" />
+    <Compile Include="Lua\controller\tip_cmd.lua" />
+    <Compile Include="Lua\controller\wait_cmd.lua" />
+    <Compile Include="Lua\core\extern.lua" />
+    <Compile Include="Lua\core\fsm.lua" />
+    <Compile Include="Lua\core\inspect.lua" />
+    <Compile Include="Lua\core\mvc.lua" />
+    <Compile Include="Lua\core\profiler.lua" />
+    <Compile Include="Lua\Game.lua" />
+    <Compile Include="Lua\Main.lua" />
+    <Compile Include="Lua\model\bag_proxy.lua" />
+    <Compile Include="Lua\model\user_proxy.lua" />
+    <Compile Include="Lua\network\Network.lua" />
+    <Compile Include="Lua\network\Protocol.lua" />
+    <Compile Include="Lua\notifyname.lua" />
+    <Compile Include="Lua\proto\logic_pb.lua" />
+    <Compile Include="Lua\proto\login_pb.lua" />
+    <Compile Include="Lua\proto\main_pb.lua" />
+    <Compile Include="Lua\scene\SceneBattle.lua" />
+    <Compile Include="Lua\scene\SceneCity.lua" />
+    <Compile Include="Lua\scene\SceneLoading.lua" />
+    <Compile Include="Lua\scene\SceneMain.lua" />
+    <Compile Include="Lua\Window\PanelAlert.lua" />
+    <Compile Include="Lua\Window\PanelBag.lua" />
+    <Compile Include="Lua\Window\PanelBattle.lua" />
+    <Compile Include="Lua\Window\PanelBattleBalance.lua" />
+    <Compile Include="Lua\Window\PanelEquip.lua" />
+    <Compile Include="Lua\Window\PanelGift.lua" />
+    <Compile Include="Lua\Window\PanelItemDetail.lua" />
+    <Compile Include="Lua\Window\PanelLogin.lua" />
+    <Compile Include="Lua\Window\PanelMain.lua" />
+    <Compile Include="Lua\Window\PanelMenu.lua" />
+    <Compile Include="Lua\Window\PanelTip.lua" />
+    <Compile Include="Lua\Window\PanelWait.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

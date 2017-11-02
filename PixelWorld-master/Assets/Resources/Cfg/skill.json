@@ -1,0 +1,20 @@
+{
+"100":{"name": "眩晕箭", "desc":"射出一只箭，若击中目标则造成晕眩持续3s。", "spcost":10, "colddown":5000,
+		"animation":"skill1", "effect":"", "sound":"", "skilleffect":[1000], "hitpoint":[50],
+		"hiteffect":"", "targettype":2, "aoe":5, "aoeType":0},
+"101":{"name": "乱箭狂射", "desc":"向前方射出多只箭，",  "spcost":10, "colddown":15000,
+		"animation":"skill2", "effect":"", "sound":"", "skilleffect":[1001, 101], "hitpoint":[50],
+		"hiteffect":"", "targettype":2, "aoe":5, "aoeType":1},
+"102":{"name": "召唤陷阱", "desc":"召唤陷阱，持续5s，区域减速",  "spcost":10, "colddown":5000,
+		"animation":"skill3", "effect":"", "sound":"", "skilleffect":[1004, 102], "hitpoint":[20],
+		"hiteffect":"", "targettype":2, "aoe":5, "aoeType":0},
+"103":{"name": "回血", "desc":"单体持续回血",  "spcost":20, "colddown":5000,
+		"animation":"skill1", "effect":"", "sound":"", "skilleffect":[200], "hitpoint":[50],
+		"hiteffect":"", "targettype":0, "aoe":5, "aoetype":0},
+"104":{"name": "护盾", "desc":"单体护盾",  "spcost":10, "colddown":3000,
+		"animation":"skill1", "effect":"", "sound":"", "skilleffect":[201], "hitpoint":[50],
+		"hiteffect":"", "targettype":0, "aoe":5, "aoetype":0},
+"105":{"name": "群体护盾", "desc":"群体护盾",  "spcost":10, "colddown":10000,
+		"animation":"skill1", "effect":"", "sound":"", "skilleffect":[400], "hitpoint":[50],
+		"hiteffect":"", "targettype":1, "aoe":5, "aoeType":0}
+}

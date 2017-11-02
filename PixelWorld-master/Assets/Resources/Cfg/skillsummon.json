@@ -1,0 +1,6 @@
+{
+"100":{"name": "眩晕箭,命中恢复sp", "prefab":"Prefabs/Effect/Skill/Fx_ice_arrow", "speed":5, "life":3000, "hitmax":1, "skilleffect":[110,300], "hiteffect":"Prefabs/Effect/Hit/Fx_hit_ice"},
+"101":{"name": "乱箭狂射,命中恢复sp", "prefab":"Prefabs/Effect/Skill/Fx_arrow", "speed":6, "life":600, "hitmax":1, "skilleffect":[111], "hiteffect":"Prefabs/Effect/Hit/Fx_hit"},
+"102":{"name": "火球,命中恢复sp", "prefab":"Prefabs/Effect/Skill/Fx_fire_arrow", "speed":5, "life":1000, "hitmax":0, "skilleffect":[112,301], "hiteffect":"Prefabs/Effect/Hit/Fx_hit_fire"},
+"103":{"name": "陷阱，造成敌方50%伤害，并减速20%", "prefab":"Prefabs/Effect/Skill/Fx_dark_servant_skill01_buf", "speed":0, "life":5000, "hitmax":0, "skilleffect":[110, 302], "hiteffect":"Prefabs/Effect/Hit/Fx_hit_poison"}
+}

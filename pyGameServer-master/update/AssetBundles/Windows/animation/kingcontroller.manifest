@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 752186162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61259a347da5899f4e5a008760737647
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebfb7cb207e8572fcf99e9416fdcd08a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Character/kingController.controller
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3226336324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7e19726ae823d928aca5cecc81f0509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767f64f9da53cc31d15d40451d5f3e5a
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b23f08d2ae4cba14087c1ed36193d82b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/AI/MonsterRange.asset
+Dependencies: []

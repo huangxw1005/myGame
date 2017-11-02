@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1966779266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 123396b740b0d24c5ccca5014d2441f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c7de94843d2a6a50f40d60a775bd98d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e86417ac2f631c44b9bd42c63e4bbdc9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Item/crystal.prefab
+Dependencies: []

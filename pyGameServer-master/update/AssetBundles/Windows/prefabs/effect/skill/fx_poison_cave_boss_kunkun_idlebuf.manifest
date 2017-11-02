@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3396301282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5eb34aaf7a0d294c86a4bf3d102fa65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77a7faf2c285f57ebc4e7fda3319cffa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effect/Skill/Fx_poison_cave_boss_kunkun_idlebuf.prefab
+Dependencies: []

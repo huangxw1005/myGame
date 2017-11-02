@@ -1,0 +1,8 @@
+{
+"100":{"name": "回血光环，恢复100点血量，持续5s", "life":5000, "operation":1, "args":[8, 20], "prefab":"Prefabs/Effect/Buff/Fx_buff_addhp"},
+"101":{"name": "护盾光环，减少50%伤害，持续5s", "life":5000, "operation":4, "args":[50], "prefab":"Prefabs/Effect/Buff/Fx_hudun_001"},
+"102":{"name": "昏迷，持续5s", "life":5000,  "operation":6, "args":[], "prefab":"Prefabs/Effect/Buff/Fx_Hunmi_001"},
+"103":{"name": "燃烧，造成50点伤害，持续5s", "life":5000, "operation":3, "args":[5, 50], "prefab":"Prefabs/Effect/Buff/Fx_Ranshao_001"},
+"104":{"name": "减速5%，持续5s", "life":5000, "operation":5, "args":[5], "prefab":"Prefabs/Effect/Buff/Fx_poisonbuf"},
+"105":{"name": "减速10%，持续5s", "life":5000, "operation":5, "args":[10], "prefab":"Prefabs/Effect/Buff/Fx_poisonbuf"}
+}

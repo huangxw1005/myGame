@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4144591667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 961b86aeb0f686b788110d45d2c307a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b931e9234cf3382069fef028ae9a383
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d272eff33d118b942848c92fe298b92b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Environment/treasure.prefab
+Dependencies: []

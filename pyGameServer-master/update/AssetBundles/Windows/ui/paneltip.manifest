@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 882813643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbb8078d8077f37a779794ae9853beae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c08e59603a13e21017a3683ab79bfcd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/PanelTip.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1057125803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbb902b34224140b4f6e4fe69820b33e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 140b0fd95b53f9d4d6486ed613a5cb8a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Materials/RTTShadowMaterial.mat
+Dependencies: []

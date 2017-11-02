@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2258863282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47dba08abcf8d402d99274a02dc8565b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c7187cdb43d5a4d6435d185aaf8a868
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effect/Buff/Fx_poisonbuf.prefab
+Dependencies: []

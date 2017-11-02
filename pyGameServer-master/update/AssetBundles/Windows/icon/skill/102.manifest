@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1521611823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73033f3c8d0a432003c0c94dfbf1e185
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icon/Skill/102.png
+Dependencies: []

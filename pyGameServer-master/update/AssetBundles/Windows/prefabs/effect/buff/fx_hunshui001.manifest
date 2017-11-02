@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1429025117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c7029f5fcfb46401a5cc157f4fae391
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c7187cdb43d5a4d6435d185aaf8a868
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effect/Buff/Fx_Hunshui001.prefab
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3120354742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4f9332c2800b89f964f5a5b21d37ccb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b683274fd820e48188a3179690f5a2b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Effect/Buff/Fx_Shufu_001.prefab
+Dependencies: []

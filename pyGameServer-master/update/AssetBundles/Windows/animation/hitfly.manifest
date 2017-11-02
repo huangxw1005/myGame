@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3580836329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65f86918b58e2ea76359fb77242cdad3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e05b48bdf9804fabbe4e2bc3a785346
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animation/HitFly.anim
+Dependencies: []

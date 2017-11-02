@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1408186013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 519ce55893302bf9f1036e486c2fb5ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6d74f2d6b370c4d26f3cae461538e43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Plants_Flower_B5.prefab
+Dependencies: []

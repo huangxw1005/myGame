@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 89271dd07a8c5e74d9d36eb12f549163
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger0Nub
+    100016: Bip01 L Finger1
+    100018: Bip01 L Finger11
+    100020: Bip01 L Finger1Nub
+    100022: Bip01 L Foot
+    100024: Bip01 L Forearm
+    100026: Bip01 L Hand
+    100028: Bip01 L Thigh
+    100030: Bip01 L Toe0
+    100032: Bip01 L Toe0Nub
+    100034: Bip01 L UpperArm
+    100036: Bip01 Neck
+    100038: Bip01 Pelvis
+    100040: Bip01 R Calf
+    100042: Bip01 R Clavicle
+    100044: Bip01 R Finger0
+    100046: Bip01 R Finger01
+    100048: Bip01 R Finger0Nub
+    100050: Bip01 R Finger1
+    100052: Bip01 R Finger11
+    100054: Bip01 R Finger1Nub
+    100056: Bip01 R Foot
+    100058: Bip01 R Forearm
+    100060: Bip01 R Hand
+    100062: Bip01 R Thigh
+    100064: Bip01 R Toe0
+    100066: Bip01 R Toe0Nub
+    100068: Bip01 R UpperArm
+    100070: Bip01 Spine
+    100072: Bip01 Spine1
+    100074: Bone_cap01
+    100076: Bone_cap02
+    100078: Bone_cap03
+    100080: Bone_cap04
+    100082: Bone_cap05
+    100084: Bone_L01
+    100086: Bone_L02
+    100088: Bone_L03
+    100090: Bone_L04
+    100092: Bone_L05
+    100094: Bone_L_cloth01
+    100096: Bone_L_cloth02
+    100098: Bone_L_cloth03
+    100100: Bone_L_hair01
+    100102: Bone_L_hair02
+    100104: Bone_L_hair03
+    100106: Bone_L_hair04
+    100108: Bone_L_hair05
+    100110: Bone_L_hair06
+    100112: Bone_R01
+    100114: Bone_R02
+    100116: Bone_R03
+    100118: Bone_R04
+    100120: Bone_R05
+    100122: Bone_R06
+    100124: Bone_R_cloth01
+    100126: Bone_R_cloth02
+    100128: Bone_R_cloth03
+    100130: Bone_R_hair01
+    100132: Bone_R_hair02
+    100134: Bone_R_hair03
+    100136: Bone_R_hair04
+    100138: Bone_R_hair05
+    100140: Bone_R_hair06
+    100142: Dummy02
+    100144: Dummy21
+    100146: Dummy22
+    100148: Dummy35
+    100150: Dummy36
+    100152: Dummy37
+    100154: Dummy38
+    100156: Dummy39
+    100158: Dummy40
+    100160: Dummy41
+    100162: Dummy42
+    100164: //RootNode
+    100166: IK Chain01
+    100168: IK Chain02
+    100170: IK Chain18
+    100172: IK Chain19
+    100174: IK Chain20
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger0Nub
+    400016: Bip01 L Finger1
+    400018: Bip01 L Finger11
+    400020: Bip01 L Finger1Nub
+    400022: Bip01 L Foot
+    400024: Bip01 L Forearm
+    400026: Bip01 L Hand
+    400028: Bip01 L Thigh
+    400030: Bip01 L Toe0
+    400032: Bip01 L Toe0Nub
+    400034: Bip01 L UpperArm
+    400036: Bip01 Neck
+    400038: Bip01 Pelvis
+    400040: Bip01 R Calf
+    400042: Bip01 R Clavicle
+    400044: Bip01 R Finger0
+    400046: Bip01 R Finger01
+    400048: Bip01 R Finger0Nub
+    400050: Bip01 R Finger1
+    400052: Bip01 R Finger11
+    400054: Bip01 R Finger1Nub
+    400056: Bip01 R Foot
+    400058: Bip01 R Forearm
+    400060: Bip01 R Hand
+    400062: Bip01 R Thigh
+    400064: Bip01 R Toe0
+    400066: Bip01 R Toe0Nub
+    400068: Bip01 R UpperArm
+    400070: Bip01 Spine
+    400072: Bip01 Spine1
+    400074: Bone_cap01
+    400076: Bone_cap02
+    400078: Bone_cap03
+    400080: Bone_cap04
+    400082: Bone_cap05
+    400084: Bone_L01
+    400086: Bone_L02
+    400088: Bone_L03
+    400090: Bone_L04
+    400092: Bone_L05
+    400094: Bone_L_cloth01
+    400096: Bone_L_cloth02
+    400098: Bone_L_cloth03
+    400100: Bone_L_hair01
+    400102: Bone_L_hair02
+    400104: Bone_L_hair03
+    400106: Bone_L_hair04
+    400108: Bone_L_hair05
+    400110: Bone_L_hair06
+    400112: Bone_R01
+    400114: Bone_R02
+    400116: Bone_R03
+    400118: Bone_R04
+    400120: Bone_R05
+    400122: Bone_R06
+    400124: Bone_R_cloth01
+    400126: Bone_R_cloth02
+    400128: Bone_R_cloth03
+    400130: Bone_R_hair01
+    400132: Bone_R_hair02
+    400134: Bone_R_hair03
+    400136: Bone_R_hair04
+    400138: Bone_R_hair05
+    400140: Bone_R_hair06
+    400142: Dummy02
+    400144: Dummy21
+    400146: Dummy22
+    400148: Dummy35
+    400150: Dummy36
+    400152: Dummy37
+    400154: Dummy38
+    400156: Dummy39
+    400158: Dummy40
+    400160: Dummy41
+    400162: Dummy42
+    400164: //RootNode
+    400166: IK Chain01
+    400168: IK Chain02
+    400170: IK Chain18
+    400172: IK Chain19
+    400174: IK Chain20
+    7400000: human_myun_idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: human_myun_idle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

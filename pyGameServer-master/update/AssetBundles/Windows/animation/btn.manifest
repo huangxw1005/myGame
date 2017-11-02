@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3433100952
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a8ca71ead2b2d2061876215fc13976
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ea121992ec09f3dbe7412c8875f2402
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animation/btn.controller
+Dependencies: []

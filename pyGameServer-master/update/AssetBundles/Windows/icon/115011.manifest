@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2702594720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b22d830496cf305973c54338ec8dc73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icon/115011.png
+Dependencies: []

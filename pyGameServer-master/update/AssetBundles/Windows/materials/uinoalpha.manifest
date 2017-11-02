@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 298956523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 826bf1f85181aaa54b591e1f28ae5df1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb2757eac30f0cc0abd90c4f09c2db98
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Materials/UINoAlpha.mat
+Dependencies: []

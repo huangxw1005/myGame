@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 379865810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8728098532609dd18fcfe331ac7f99f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5bebb1ae1981f2075775c78e4d5a32c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4362651828e93a249b238cc5a7e88c09, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Map/Buildings_J1_1.prefab
+Dependencies: []

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3435604873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53ce0ee2d5846718682946d433e194ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4da2574d3927d53f9b6543d4ed6853a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85c6b4c6c46453c4cb599096c726f9a5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/PanelUpdate.prefab
+Dependencies:
+- Update/AssetBundles/Windows/arts/public
+- Update/AssetBundles/Windows/animation/btn

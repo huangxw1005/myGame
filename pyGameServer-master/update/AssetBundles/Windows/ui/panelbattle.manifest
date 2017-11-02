@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 396122356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 665e9050393f13de3fd6c2406743d607
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4635edcc32e76bc69c6f960484328d00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00c3c865782347f41b6358d9fba14b48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1caf40fc8bebb6b43b2550c05ca791d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71398ce7fbc3a5b4fa50b50bd54317a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85bf3be603548374ca46f521a3aa7fda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a11eba52daff5464aaf701213b4e6f32, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/PanelBattle.prefab
+Dependencies:
+- Update/AssetBundles/Windows/arts/public
+- Update/AssetBundles/Windows/arts/battle
+- Update/AssetBundles/Windows/animation/btn

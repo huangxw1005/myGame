@@ -1,0 +1,7 @@
+version 1.0.0
+2017-11-03 01:14:27
+Windows 7e3cc0f7d76283abf3e77d297e49062 1021
+animation/kingcontroller 61259a347da5899f4e5a008760737647 392928
+arts/battle acce279a8e02ef98db13e39eecff9fcc 11040
+arts/menu 331f9648cb607e873a274ea759b26d69 36349
+arts/public e243dd8ed6de5d1bfe6126d5c0bf5e4f 205679

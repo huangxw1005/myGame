@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d3c0e78f09111d24898ae086723965d1
+timeCreated: 1490927352
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone002(mirrored)
+    100006: Bone004
+    100008: Bone004(mirrored)
+    100010: Bone005
+    100012: Bone006
+    100014: Bone007
+    100016: Bone008
+    100018: Bone008(mirrored)
+    100020: Bone008(mirrored)001
+    100022: box_polySurface13_polySurface5_polySurface3_polySurface2_polySurface16
+    100024: box_polySurface15_polySurface13_polySurface5_polySurface3_polySurface2
+    100026: box_polySurface2_polySurface11_polySurface4
+    100028: box_polySurface2_polySurface4_polySurface12
+    100030: box_polySurface3_polySurface2_polySurface6_polySurface17_polySurface8
+    100032: box_polySurface3_polySurface2_polySurface6_polySurface8_polySurface18
+    100034: box_polySurface3_polySurface2_polySurface7_polySurface6_polySurface10
+    100036: box_polySurface3_polySurface2_polySurface9_polySurface7_polySurface6
+    100038: box_polySurface5_polySurface3_polySurface2_polySurface14
+    100040: Group001
+    100042: //RootNode
+    100044: polySurface19_polySurface1_box
+    100046: polySurface1_box_polySurface20
+    400000: Bone001
+    400002: Bone002
+    400004: Bone002(mirrored)
+    400006: Bone004
+    400008: Bone004(mirrored)
+    400010: Bone005
+    400012: Bone006
+    400014: Bone007
+    400016: Bone008
+    400018: Bone008(mirrored)
+    400020: Bone008(mirrored)001
+    400022: box_polySurface13_polySurface5_polySurface3_polySurface2_polySurface16
+    400024: box_polySurface15_polySurface13_polySurface5_polySurface3_polySurface2
+    400026: box_polySurface2_polySurface11_polySurface4
+    400028: box_polySurface2_polySurface4_polySurface12
+    400030: box_polySurface3_polySurface2_polySurface6_polySurface17_polySurface8
+    400032: box_polySurface3_polySurface2_polySurface6_polySurface8_polySurface18
+    400034: box_polySurface3_polySurface2_polySurface7_polySurface6_polySurface10
+    400036: box_polySurface3_polySurface2_polySurface9_polySurface7_polySurface6
+    400038: box_polySurface5_polySurface3_polySurface2_polySurface14
+    400040: Group001
+    400042: //RootNode
+    400044: polySurface19_polySurface1_box
+    400046: polySurface1_box_polySurface20
+    4300000: box_polySurface2_polySurface4_polySurface12
+    4300002: box_polySurface2_polySurface11_polySurface4
+    4300004: box_polySurface3_polySurface2_polySurface6_polySurface8_polySurface18
+    4300006: box_polySurface3_polySurface2_polySurface6_polySurface17_polySurface8
+    4300008: box_polySurface3_polySurface2_polySurface7_polySurface6_polySurface10
+    4300010: box_polySurface3_polySurface2_polySurface9_polySurface7_polySurface6
+    4300012: box_polySurface5_polySurface3_polySurface2_polySurface14
+    4300014: box_polySurface13_polySurface5_polySurface3_polySurface2_polySurface16
+    4300016: box_polySurface15_polySurface13_polySurface5_polySurface3_polySurface2
+    4300018: polySurface1_box_polySurface20
+    4300020: polySurface19_polySurface1_box
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: box_polySurface13_polySurface5_polySurface3_polySurface2_polySurface16
+    13700002: box_polySurface15_polySurface13_polySurface5_polySurface3_polySurface2
+    13700004: box_polySurface2_polySurface11_polySurface4
+    13700006: box_polySurface2_polySurface4_polySurface12
+    13700008: box_polySurface3_polySurface2_polySurface6_polySurface17_polySurface8
+    13700010: box_polySurface3_polySurface2_polySurface6_polySurface8_polySurface18
+    13700012: box_polySurface3_polySurface2_polySurface7_polySurface6_polySurface10
+    13700014: box_polySurface3_polySurface2_polySurface9_polySurface7_polySurface6
+    13700016: box_polySurface5_polySurface3_polySurface2_polySurface14
+    13700018: polySurface19_polySurface1_box
+    13700020: polySurface1_box_polySurface20
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

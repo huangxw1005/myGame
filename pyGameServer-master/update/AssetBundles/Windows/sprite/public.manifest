@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 398692366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63464bd9ac9514e0f6165a32e11867ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 59115a64cf1835f9b870e5b819903277
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sprite/Public/btn_skill1.prefab
+- Assets/Resources/Sprite/Public/joystick.prefab
+- Assets/Resources/Sprite/Public/bg_1.prefab
+- Assets/Resources/Sprite/Public/btn_skill2.prefab
+- Assets/Resources/Sprite/Public/power.prefab
+- Assets/Resources/Sprite/Public/btn_attack.prefab
+- Assets/Resources/Sprite/Public/cash.prefab
+- Assets/Resources/Sprite/Public/bg_t0.prefab
+- Assets/Resources/Sprite/Public/btn_2.prefab
+- Assets/Resources/Sprite/Public/loading.prefab
+- Assets/Resources/Sprite/Public/bg_t2.prefab
+- Assets/Resources/Sprite/Public/bg_t1.prefab
+- Assets/Resources/Sprite/Public/bar.prefab
+- Assets/Resources/Sprite/Public/item_q_3.prefab
+- Assets/Resources/Sprite/Public/bar_bg.prefab
+- Assets/Resources/Sprite/Public/item_q_2.prefab
+- Assets/Resources/Sprite/Public/btn_jump.prefab
+- Assets/Resources/Sprite/Public/item_q_5.prefab
+- Assets/Resources/Sprite/Public/btn_1.prefab
+- Assets/Resources/Sprite/Public/btn_close.prefab
+- Assets/Resources/Sprite/Public/item_q_4.prefab
+- Assets/Resources/Sprite/Public/coin.prefab
+- Assets/Resources/Sprite/Public/bg_t3.prefab
+- Assets/Resources/Sprite/Public/item_q_1.prefab
+- Assets/Resources/Sprite/Public/joystick_bg.prefab
+Dependencies:
+- Update/AssetBundles/Windows/arts/public
